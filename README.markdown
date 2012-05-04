@@ -32,6 +32,14 @@ modifications. With dotjs, just add or edit files in
       .attr('src', '//bit.ly/ghD24e')
 
 ![](https://bit.ly/gAHTbC)
+=======
+    $('#header .site-logo img')
+      .css('width', '97px')
+      .css('height', '80px')
+      .css('margin-top', '-15px')
+      .attr('src', '//bit.ly/ghD24e')
+
+![](http://cl.ly/G3UB)
 
 ## How It Works
 
